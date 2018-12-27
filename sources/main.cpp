@@ -1,4 +1,5 @@
 // Copyright 2018 amirnyy <alex.mirnyy@gmail.com>
+//
 #include<server.hpp>
 
 extern boost::asio::io_service service;
