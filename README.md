@@ -1,5 +1,5 @@
 # Лабораторная работа №7
-
+## [![Build Status](https://travis-ci.org/amirnyy/lab-07-asio-server.svg?branch=master)](https://travis-ci.org/amirnyy/lab-07-asio-server)
 ## Задание
 
 Реализовать синхронный сервер с использованием [Boost.Asio](https://www.boost.org/doc/libs/1_68_0/doc/html/boost_asio.html). 
